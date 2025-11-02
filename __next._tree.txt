@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[41050,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"ViewportBoundary"]
+4:I[41050,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[37177,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"IconMark"]
+:HL["/guess-the-jam/_next/static/chunks/5af32d58fc8f441e.css","style"]
+:HL["/guess-the-jam/_next/static/chunks/a91357c94bdea769.css","style"]
+0:{"buildId":"dUHml2nELdznPsouHF0o-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Guess the Jam"}],["$","meta","1",{"name":"description","content":"Guess the song based on an AI generated image"}],["$","link","2",{"rel":"icon","href":"https://netail.dev/favicon.ico"}],["$","$L7","3",{}]]
