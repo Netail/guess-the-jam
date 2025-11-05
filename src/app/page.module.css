@@ -1,0 +1,35 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 16px;
+
+	height: 100dvh;
+	max-width: 650px;
+	margin: 0 auto;
+	padding: 8px;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+
+	@media screen and (width >= 500px) {
+		flex-direction: row;
+	}
+}
+
+.input {
+	height: 48px;
+	padding: 8px 16px;
+	border-radius: 8px;
+	border: none;
+}
+
+.hr {
+	width: 100%;
+	background-color: var(--foreground);
+	opacity: 50%;
+}
