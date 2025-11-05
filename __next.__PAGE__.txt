@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 2:I[59348,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"ClientPageRoot"]
-3:I[52683,["/guess-the-jam/_next/static/chunks/5393d8b5436de792.js"],"default"]
+3:I[52683,["/guess-the-jam/_next/static/chunks/514d34ed9b0f3c35.js"],"default"]
 6:I[41050,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/guess-the-jam/_next/static/chunks/a91357c94bdea769.css","style"]
-0:{"buildId":"dUHml2nELdznPsouHF0o-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/guess-the-jam/_next/static/chunks/a91357c94bdea769.css","precedence":"next"}],["$","script","script-0",{"src":"/guess-the-jam/_next/static/chunks/5393d8b5436de792.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"dMm4Qq0Wj3CqJZPMIgDj4","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/guess-the-jam/_next/static/chunks/a91357c94bdea769.css","precedence":"next"}],["$","script","script-0",{"src":"/guess-the-jam/_next/static/chunks/514d34ed9b0f3c35.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
