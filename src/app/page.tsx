@@ -59,7 +59,7 @@ const Page = () => {
 
 			{current.imageSrc && <Image src={current.imageSrc} />}
 
-			{![State.SUCCESS, State.REVEAL, State.END].includes(state) &&
+			{![State.SUCCESS, State.REVEAL, State.END].includes(state) && (
 				<form className={css.form} action={handleOnSubmit}>
 					<input
 						id="answer"
@@ -69,7 +69,7 @@ const Page = () => {
 					/>
 					<Button type="submit">Guess</Button>
 				</form>
-			}
+			)}
 
 			{state === State.FAILED && (
 				<>
