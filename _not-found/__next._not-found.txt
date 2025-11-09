@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[88692,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"default"]
 3:I[34672,["/guess-the-jam/_next/static/chunks/517add6f8ac1d74e.js"],"default"]
-0:{"buildId":"dMm4Qq0Wj3CqJZPMIgDj4","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"0wqmvuZSdaG4BpyGrb5Em","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
